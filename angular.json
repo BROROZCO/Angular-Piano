@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Piano-Angular"
+  "defaultProject": "Piano-Angular",
+  "cli": {
+    "analytics": false
+  }
 }
