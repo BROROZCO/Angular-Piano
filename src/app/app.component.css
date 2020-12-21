@@ -11,3 +11,8 @@
     /* 100 hv para que el componente padre ocupe el 100% de la pantalla  */
     height: 100vh;
 }
+
+.list-group-item:active{
+    opacity: 0.7;
+
+}
