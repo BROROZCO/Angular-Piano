@@ -2,3 +2,12 @@
     cursor: pointer;
     height: 50px;
 }
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Hay que darle tamaño al componete padre */
+    /* 100 hv para que el componente padre ocupe el 100% de la pantalla  */
+    height: 100vh;
+}
